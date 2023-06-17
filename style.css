@@ -1,0 +1,20 @@
+h1 {
+    background-color: cadetblue;
+    color: brown;
+    text-align: center;
+}
+
+h2 {
+    background-color: rgba(234, 33, 6, 0.933);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(202, 219, 12);
+    text-align: center;
+}
+
+.paragraph2 {
+    color: rgb(74, 44, 122);
+    border: 1px solid rgb(210, 14, 14);
+}
